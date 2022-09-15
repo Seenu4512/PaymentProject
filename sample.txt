@@ -4,3 +4,5 @@ Join Java Realtime Project
 
 
 Welcome to Devops and AWS training
+
+Payment application and updated
